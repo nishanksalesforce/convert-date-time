@@ -1,0 +1,7 @@
+{
+  "name": "Convert date-time to specified timezone",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/nishankdeveloper/convert-date-time",
+  "logo": "https://github.com/nishankdeveloper/convert-date-time/master/public/node.svg",
+  "keywords": ["node", "express", "static"]
+}

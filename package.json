@@ -1,0 +1,29 @@
+{
+  "name": "convert-date-time",
+  "version": "0.2.0",
+  "description": "A Node.js app using Express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nishankdeveloper/convert-date-time"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Nishank Gupta",
+  "contributors": [
+    "Nishank Gupta <nishankdeveloper@gmail.com> (http://nishankdeveloper.github.io)"
+  ],
+  "license": "MIT"
+}
